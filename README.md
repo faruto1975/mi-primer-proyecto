@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧪 QA Manual Testing Practice - Login Module
 
 ## 📌 Descripción
@@ -84,3 +85,6 @@ Las evidencias del testing (capturas de pantalla) se almacenan en la carpeta:
 **Ruben Dario Santoro**
 
 QA Manual Tester en formación
+=======
+# mi-primer-proyecto
+>>>>>>> ceffd39369413282af8af49f65d414c90dc9b987
